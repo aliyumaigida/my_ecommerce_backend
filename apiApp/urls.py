@@ -22,4 +22,3 @@ urlpatterns = [
 #python manage.py runserver
 # ngrok http 8000, https://xxxxx.ngrok-free.dev/admin/
 
-#my signal secret = whsec_OTuNikrpAS0x5zZFFTemU79vzsH9T89l
